@@ -12,7 +12,26 @@
 
 ## Deskripsi Tugas
 
-[Tuliskan penjelasan singkat mengenai tugas ini. Jelaskan apa tujuan dari pembuatan program/proyek ini, masalah apa yang diselesaikan, dan fitur utama apa saja yang dibuat.]
+implementasikan modul CI/CD ini pada sebuah sistem server sederhana, dengan detail sebagai berikut
+1. Buatlah API publik dengan endpoint /health yang menampilkan informasi sebagai berikut:
+
+   CONTOH (value disesuaikan)
+```
+{
+  "nama": "Sersan Mirai Afrizal",
+  "nrp": "5025241999",
+  "status": "UP",
+  “timestamp”: time	// Current time
+  "uptime": time		// Server uptime
+}
+```
+Bahasa pemrograman dan teknologi yang digunakan dibebaskan kepada peserta.
+
+2. Lakukan deployment API tersebut di dalam container pada VPS publik. Gunakan port selain 80 dan 443 untuk menjalankan API.
+3. Gunakan Ansible untuk menginstall dan meletakkan konfigurasi nginx pada VPS. Nginx akan berperan sebagai reverse proxy yang meneruskan request ke API. Sehingga, API harus bisa diakses hanya dengan menjalankan Ansible Playbook tanpa intervensi/konfigurasi nginx secara manual.
+4. Lakukan proses CI/CD menggunakan GitHub Actions untuk melakukan otomasi proses deployment API. Terapkan juga best practices untuk menjaga kualitas environment CI/CD.
+5. Dokumentasikan pengerjaan di sebuah laporan berbentuk Markdown pada repositori peserta masing-masing.
+
 
 ## Cara Menjalankan Program
 
@@ -29,6 +48,10 @@ Pastikan sistem Anda sudah menginstal beberapa kebutuhan berikut sebelum menjala
    git clone [https://github.com/username/nama-repositori.git](https://github.com/username/nama-repositori.git)
 
 ## Sources
+
+[https://docs.google.com/document/d/11yzgwByWrnmcZ4dQC1MYS_dq12UrjpYHqdl0XIi9gVY/edit?tab=t.0](https://docs.google.com/document/d/11yzgwByWrnmcZ4dQC1MYS_dq12UrjpYHqdl0XIi9gVY/edit?tab=t.0)
+
+[https://github.com/arsitektur-jaringan-komputer/oprec2026-module-deployment/blob/main/README.md](https://github.com/arsitektur-jaringan-komputer/oprec2026-module-deployment/blob/main/README.md)
 
 [https://drive.google.com/drive/folders/1e5DI6a4RpKRRC-03cDWSIkMNQczNDcAT?usp=sharing](https://drive.google.com/drive/folders/1e5DI6a4RpKRRC-03cDWSIkMNQczNDcAT?usp=sharing)
 
