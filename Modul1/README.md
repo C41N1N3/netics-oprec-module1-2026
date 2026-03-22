@@ -41,7 +41,31 @@ Bahasa pemrograman dan teknologi yang digunakan dibebaskan kepada peserta.
 
 Disini saya mnenggunakan server dari Microsoft Azure, dimana saya menggunakan virtual machine dari Azure sebagai tempat nya
 
-2. 
+2. IDE
+
+Saya menggunakan Visual Studio Code
+
+3. Ethernet
+
+Punya jaringan internet is a must:v 
+
+### Steps
+
+Pertama, pastikan telah ter deploy
+
+<img width="924" height="367" alt="image" src="https://github.com/user-attachments/assets/f1d792d3-b3ff-4e26-a594-febf4fd12d4d" />
+
+Next, ambil key.pem nya untuk bisa terkoneksi dengan vm nya
+
+Lalu, kita aman kan dan gunakan untuk ke file nya dengan cara
+
+```
+chmod 400 CNM1_key.pem
+ssh -i CNM1_key.pem C41N1N3@48.193.40.211
+```
+<img width="654" height="442" alt="image" src="https://github.com/user-attachments/assets/d1c59811-15d5-4a5f-bca6-27b41b5e3b26" />
+
+Nah, dah connect
 
 ## Sources
 
@@ -58,3 +82,5 @@ Disini saya mnenggunakan server dari Microsoft Azure, dimana saya menggunakan vi
 [https://learn.microsoft.com/en-us/azure/developer/ansible/overview](https://learn.microsoft.com/en-us/azure/developer/ansible/overview)
 
 [https://learn.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli](https://learn.microsoft.com/en-us/azure/developer/ansible/install-on-linux-vm?tabs=azure-cli)
+
+[https://docs.ansible.com/](https://docs.ansible.com/)
