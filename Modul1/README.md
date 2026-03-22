@@ -33,19 +33,15 @@ Bahasa pemrograman dan teknologi yang digunakan dibebaskan kepada peserta.
 5. Dokumentasikan pengerjaan di sebuah laporan berbentuk Markdown pada repositori peserta masing-masing.
 
 
-## Cara Menjalankan Program
+## Cara Mengerjakan Tugas
 
 ### Prasyarat (Prerequisites)
 
-Pastikan sistem Anda sudah menginstal beberapa kebutuhan berikut sebelum menjalankan program:
-* [Contoh: Python 3.10+ / Java 17 / GCC]
-* [Contoh: Library tambahan atau environment khusus]
+1. Server
 
-### Langkah-langkah Instalasi & Eksekusi
+Disini saya mnenggunakan server dari Microsoft Azure, dimana saya menggunakan virtual machine dari Azure sebagai tempat nya
 
-1. Clone repositori ini ke mesin lokal Anda:
-   ```bash
-   git clone [https://github.com/username/nama-repositori.git](https://github.com/username/nama-repositori.git)
+2. 
 
 ## Sources
 
