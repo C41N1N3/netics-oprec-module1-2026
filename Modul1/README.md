@@ -1,23 +1,20 @@
-# Tugas [Nomor/Nama Tugas]: [Judul Proyek atau Modul]
-
-**Mata Kuliah:** [Nama Mata Kuliah]  
-**Program Studi:** Teknik Informatika  
+# Tugas Modul 1: CI/Cd
 
 ---
 
-## 👨‍🎓 Identitas Mahasiswa
+## Identitas Mahasiswa
 
-| Nama | NRP/NIM | Kelas |
+| Nama | Prodi | NRP |
 | :--- | :--- | :--- |
-| Sean Nicholas Davidson | [Masukkan NRP/NIM] | [Masukkan Kelas] |
+| Muhammad Akhdan Alwaafy | Teknik Informatika | 5025241223 |
 
 ---
 
-## 📝 Deskripsi Tugas
+## Deskripsi Tugas
 
 [Tuliskan penjelasan singkat mengenai tugas ini. Jelaskan apa tujuan dari pembuatan program/proyek ini, masalah apa yang diselesaikan, dan fitur utama apa saja yang dibuat.]
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ### Prasyarat (Prerequisites)
 
@@ -30,3 +27,8 @@ Pastikan sistem Anda sudah menginstal beberapa kebutuhan berikut sebelum menjala
 1. Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone [https://github.com/username/nama-repositori.git](https://github.com/username/nama-repositori.git)
+
+33 Sources
+
+[https://drive.google.com/drive/folders/1e5DI6a4RpKRRC-03cDWSIkMNQczNDcAT?usp=sharing](https://drive.google.com/drive/folders/1e5DI6a4RpKRRC-03cDWSIkMNQczNDcAT?usp=sharing)
+[https://youtu.be/4BibQ69MD8c?si=K0D5XEhe1VohIdsz](https://youtu.be/4BibQ69MD8c?si=K0D5XEhe1VohIdsz)
