@@ -31,4 +31,7 @@ Pastikan sistem Anda sudah menginstal beberapa kebutuhan berikut sebelum menjala
 ## Sources
 
 [https://drive.google.com/drive/folders/1e5DI6a4RpKRRC-03cDWSIkMNQczNDcAT?usp=sharing](https://drive.google.com/drive/folders/1e5DI6a4RpKRRC-03cDWSIkMNQczNDcAT?usp=sharing)
+
 [https://youtu.be/4BibQ69MD8c?si=K0D5XEhe1VohIdsz](https://youtu.be/4BibQ69MD8c?si=K0D5XEhe1VohIdsz)
+
+[https://gemini.google.com/share/4f72f612b0fb](https://gemini.google.com/share/4f72f612b0fb)
