@@ -10,7 +10,7 @@ START_TIME = time.time()
 def health_check():
     uptime_seconds = time.time() - START_TIME
     return {
-        "nama": "Muhammad Akhdan Alwaafy",
+        "nama": "Muhammad-Akhdan-Alwaafy",
         "nrp": "5025241223",
         "status": "UP",
         "timestamp": datetime.now().isoformat(),
